@@ -1,6 +1,6 @@
 # Perlawanan Perjajahan 1945
 
-Website ini menjelaskan mengenai sejarah perjuangan kemerdekaan Indonesia melawan berbagai penjajah hingga mencapai kemerdekaan yang diimpikan oleh seluruh rakya Indonesia
+Website ini menjelaskan mengenai sejarah perjuangan kemerdekaan Indonesia melawan berbagai penjajah hingga mencapai kemerdekaan yang diimpikan oleh seluruh rakyat Indonesia
 
 ## Pengumpulan Lomba CuyUniverse 
 
